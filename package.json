@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/helix-md2docx",
+  "name": "@kptdobe/helix-md2docx",
   "version": "1.0.0",
   "description": "Helix helper to convert markdown to docx",
   "main": "src/index.js",
@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/helix-md2docx.git"
+    "url": "https://github.com/kptdobe/helix-md2docx.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/adobe/helix-md2docx/issues"
+    "url": "https://github.com/kptdobe/helix-md2docx/issues"
   },
-  "homepage": "https://github.com/adobe/helix-md2docx#readme",
+  "homepage": "https://github.com/kptdobe/helix-md2docx#readme",
   "dependencies": {
     "@adobe/helix-fetch": "3.0.0",
     "@adobe/helix-shared-process-queue": "1.1.0",
