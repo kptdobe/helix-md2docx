@@ -1,5 +1,5 @@
 {
-  "name": "@kptdobe/helix-md2docx",
+  "name": "@adobe/helix-md2docx",
   "version": "1.0.0",
   "description": "Helix helper to convert markdown to docx",
   "main": "src/index.js",
